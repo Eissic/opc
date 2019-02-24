@@ -85,3 +85,4 @@
 */*/tests/*.trace
 */*/tests/*.vcd
 >>>>>>> 73564cf728d8e56badc36dd06e663111f29f0977
+.DS_Store
